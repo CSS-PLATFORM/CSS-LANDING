@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Proyecto CSS</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+            color: #fff;
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+        }
+        a.button {
+            background-color: #00adb5;
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 10px;
+            font-weight: bold;
+            transition: 0.3s;
+        }
+        a.button:hover {
+            background-color: #007f87;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>Bienvenido a Central Startup Studio</h1>
+        <p>Haz clic en el botón para ir al enlace de tu proyecto</p>
+        <a class="button" href="https://tu-link-aqui.com" target="_blank">Abrir Proyecto</a>
+    </div>
+</body>
+</html>
