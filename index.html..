@@ -4,6 +4,25 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mi Proyecto CSS</title>
+<!-- SEO básico -->
+<title>Central Startup Studio – Donde nacen startups</title>
+<meta name="description" content="Central Startup Studio es la plataforma donde nacen y crecen startups tecnológicas. Impulsa tu idea desde cero con StarLab y la comunidad.">
+
+<!-- Favicon -->
+<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+
+<!-- Open Graph (para compartir en redes/WhatsApp) -->
+<meta property="og:title" content="Central Startup Studio – Donde nacen startups">
+<meta property="og:description" content="Impulsa tu idea desde cero con StarLab y nuestra comunidad de innovación.">
+<meta property="og:image" content="https://central-startup-studio.pro/og-image.png">
+<meta property="og:url" content="https://central-startup-studio.pro">
+<meta property="og:type" content="website">
+
+<!-- Twitter Card (para mejorar vista en Twitter/X) -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Central Startup Studio – Donde nacen startups">
+<meta name="twitter:description" content="Impulsa tu idea desde cero con StarLab y nuestra comunidad de innovación.">
+<meta name="twitter:image" content="https://central-startup-studio.pro/og-image.png">
     <style>
         body {
             display: flex;
