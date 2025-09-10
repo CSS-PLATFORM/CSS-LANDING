@@ -52,7 +52,7 @@
     <div>
         <h1>Bienvenido a Central Startup Studio</h1>
         <p>Haz clic en el botón para ir al enlace de tu proyecto</p>
-        <a class="button" href="https://tu-link-aqui.com" target="_blank">Abrir Proyecto</a>
+        <a class="button" href="https://central-startup-studio.pro" target="_blank">Abrir Proyecto</a>
     </div>
 </body>
 </html>
